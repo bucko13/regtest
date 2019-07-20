@@ -1,0 +1,9 @@
+{
+  "name": "regtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bcoin": "^1.0.2"
+  }
+}
